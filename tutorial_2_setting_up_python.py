@@ -1,5 +1,5 @@
 """
-#2 Writing and Running your first script 
+#2 Setting Up Python 
 @author: dejan
 """
 
